@@ -8,7 +8,7 @@ public class Run {
 		System.out.println("나의 첫 git 실행");
 		
 		int age=19;
-		String name="깃 어려워어어어";
+		String address="깃 어려워어어어";
 	}
 
 }
