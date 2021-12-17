@@ -9,6 +9,7 @@ public class Run {
 		
 		int age=19;
 		String address="깃 어려워어어어";
+		double height=180.5;
 	}
 
 }
